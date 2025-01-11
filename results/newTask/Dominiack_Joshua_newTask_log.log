@@ -1,0 +1,37 @@
+INFO:CapstoneLog:Program 'Dominiack_Joshua_capstone_code.py' called with inputs:
+  Tsci:
+'[[1.    0.    0.    1.   ]
+ [0.    1.    0.    0.5  ]
+ [0.    0.    1.    0.025]
+ [0.    0.    0.    1.   ]]'
+  Tscf:
+'[[ 0.     1.     0.    -0.4  ]
+ [-1.     0.     0.    -0.2  ]
+ [ 0.     0.     1.     0.025]
+ [ 0.     0.     0.     1.   ]]'
+  InitConfig:
+'[0.3, -0.2, -0.4, 0, -0.25, -0.7, 0, 0, 0, 0, 0, 0, 0]'
+  TseInitial:
+'[[ 0.   0.   1.   0. ]
+ [ 0.   1.   0.   0. ]
+ [-1.   0.   0.   0.5]
+ [ 0.   0.   0.   1. ]]'
+  Kp:
+'[[1.1 0.  0.  0.  0.  0. ]
+ [0.  1.1 0.  0.  0.  0. ]
+ [0.  0.  1.1 0.  0.  0. ]
+ [0.  0.  0.  1.1 0.  0. ]
+ [0.  0.  0.  0.  1.1 0. ]
+ [0.  0.  0.  0.  0.  1.1]]'
+  Ki:
+'[[0.6 0.  0.  0.  0.  0. ]
+ [0.  0.6 0.  0.  0.  0. ]
+ [0.  0.  0.6 0.  0.  0. ]
+ [0.  0.  0.  0.6 0.  0. ]
+ [0.  0.  0.  0.  0.6 0. ]
+ [0.  0.  0.  0.  0.  0.6]]'
+INFO:CapstoneLog:Generating Trajectories
+INFO:CapstoneLog:Initiating feedback control loop planning
+INFO:CapstoneLog:Generating state csv.
+INFO:CapstoneLog:Generating error csv.
+INFO:CapstoneLog:Done.
